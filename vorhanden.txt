@@ -1,0 +1,9 @@
+Ich bin schon da
+
+
+Verzeichnis anlegen.
+Danach in Verzeichnis wechseln und git Repo initialisieren mit.
+Oder gleich direkt im Source Verzeichnis git init
+	git init
+	
+	
